@@ -11,12 +11,12 @@ Documentation for the Cassiny project can be found at <https://docs.cassiny.io>.
 
 ## Other repositories
 
-Cassiny.io consists of many different microservices. The main ones are:
+Cassiny.io consists of many different microservices, the main ones are:
 
 ### cassiny-spawner
 
 [cassiny-spawner](https://github.com/cassinyio/cassiny-spawner) receives/sends
-notifications to the event stream, he is in charge of creating/removing services.
+notifications to the event stream, it is in charge of creating/removing services.
 
 ### cassiny-auth
 
