@@ -37,4 +37,4 @@ It is written using [Vue.js](http://www.vuejs.org) and communicates with the oth
 
 ### cassiny-cli
 
-[cassiny-cli](https://github.com/cassinyio/cassiny-cli) is the microservice in charge of authethincation. Is the only microservice that can create new jwt tokens.
+[cassiny-cli](https://github.com/cassinyio/cassiny-cli) a different way to use cassiny.io.
