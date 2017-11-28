@@ -28,10 +28,7 @@ notifications to the event stream, it is in charge of creating/removing services
 
 ### cassiny-websockets
 
-[cassiny-websockets](https://github.com/cassinyio/cassiny-websockets) holds shared
-logic for the different Travis CI apps. It is different from travis-core in
-that it holds more generic things, like how to run an async job or how to
-handle exceptions.
+[cassiny-websockets](https://github.com/cassinyio/cassiny-websockets) asynchronous communication bus between the microservices and [cassiny-web](https://github.com/cassinyio/cassiny-web) or [cassiny-cli](https://github.com/cassinyio/cassiny-cli).
 
 ### cassiny-web
 
